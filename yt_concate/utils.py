@@ -5,7 +5,6 @@ from yt_concate.settings import DOWNLOADS_DIR
 from yt_concate.settings import VIDEOS_DIR
 
 
-
 class Utils:
     def __init__(self):
         pass
